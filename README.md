@@ -16,7 +16,7 @@ This repository contains a comprehensive exercise set covering section 10 of the
 1. Clone the repo
 
 ```sh
-git clone https://github.com/Helekin/javascript-05-easy-favorite-movies.git
+git clone https://github.com/Helekin/javascript-06-easy-pseudo-shop.git
 ```
 
 2. Open the index.html file in any browser
